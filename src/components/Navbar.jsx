@@ -3,7 +3,7 @@ function Navbar() {
     <nav className="bg-blue-600 shadow-lg">
       <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between">
         <h1 className="text-white text-2xl font-bold">
-          Todo App
+          Todo App 🚀
         </h1>
 
         <p className="text-white">
